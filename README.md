@@ -1,0 +1,1 @@
+This repo contains few android samples for beginners in android application development.
